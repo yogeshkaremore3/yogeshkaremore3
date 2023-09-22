@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://github.com/yogeshkaremore3/yogeshkaremore3/blob/master/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.jpg)](https://codegrills.in)
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=EleoXDA&style=for-the-badge">
 </div>
