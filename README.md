@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/yogeshkaremore3/yogeshkaremore3/blob/master/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.jpg)](http://yogeshkaremore.great-site.net)
+[![Header](https://github.com/yogeshkaremore3/yogeshkaremore3/blob/master/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.jpg)](http://yogeshkaremore.great-site.net)
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=EleoXDA&style=for-the-badge">
 </div>
