@@ -6,7 +6,7 @@
 ---
 
 ## :information_desk_person:  About Me
-#### I am a FullStack developer. Have experiences in both Mobile and Web development.
+#### I am a Software developer. Have experiences in both Mobile and Web development.
 #### Currently available for freelance and open-source projects.
 #### My programming experience is summarized in Table below.
 #### I’m looking to expand my collaborations on native and/or cross-platform development.
